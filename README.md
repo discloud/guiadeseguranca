@@ -27,7 +27,7 @@
 
 
 ##### APLICATIVO ANDROID/IOS
-- [ ] `sal` dos gateways de pagamento não deve ser codificado.
+- [ ] `salt` dos gateways de pagamento não deve ser codificado.
 - [ ] `secret` / `auth token` de SDKs de terceiros não devem ser codificados permanentemente.
 - [ ] Chamadas de API destinadas a serem feitas `servidor para servidor` não devem ser feitas a partir do aplicativo.
 - [ ] No Android, todas as [permissões](https://developer.android.com/guide/topics/security/permissions.html) concedidas devem ser cuidadosamente avaliadas.
